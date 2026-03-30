@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "Aryan Singh",
+    "title": "Software Development Engineer",
+    "summary": "I’m Aryan Singh, a B.Tech Information Technology student at Netaji Subhas University of Technology (NSUT) with strong foundations in Data Structures & Algorithms, C++, and core Computer Science fundamentals including Operating Systems, DBMS, and Computer Organization. I have hands-on experience in MERN stack development (MongoDB, Express.js, React.js, Node.js) and enjoy building efficient, scalable, and reliable software systems. I bring a problem-solving mindset, attention to detail, and the ability to learn quickly in high-performance environments. Actively seeking Software Development Engineer (SDE) roles to contribute to impactful, large-scale products.",
+    "location": "Delhi, India",
+    "email": "aaryanshokeen09@gmail.com",
+    "phone": "+91 - 9958378306",
+    "links": [
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/aryan-shokeen09" },
+      { "label": "Leetcode", "url": "https://leetcode.com/u/aryan-shokeen09" }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Gemini Solutions Pvt Ltd",
+      "role": "Software Engineer Intern",
+      "dates": "May 2025 - September 2025",
+      "location": "Gurugram",
+      "bullets": [
+        "Focused on building and improving user-facing features using React.js.",
+        "Developed dynamic and reusable UI components that enhanced the overall user experience and contributed to a 15% increase in user engagement.",
+        "Took ownership of cross-browser testing for key product features, where I identified and resolved over 50 critical bugs, significantly reducing post-deployment issues by 30%.",
+        "Collaborated closely with a team of 8 developers in an Agile environment, which helped improve our workflow efficiency and accelerated project delivery by 10%.",
+        "Strengthened skills in frontend development, debugging, and teamwork in a fast-paced, real-world setting."
+      ],
+      "metrics": [
+        { "label": "User Engagement", "value": "15%" },
+        { "label": "Bugs Resolved", "value": "50+" },
+        { "label": "Post-deployment Issues Reduced", "value": "30%" },
+        { "label": "Project Delivery Accelerated", "value": "10%" }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Full-Stack Blogging Platform",
+      "stack": ["ReactJS", "NodeJS", "ExpressJS", "MongoDB", "JWT"],
+      "bullets": [
+        "Built fully responsive blogging site with JWT-based user authentication system supporting Login/Register/Logout functionality.",
+        "Designed RESTful APIs for full CRUD operations, achieving seamless frontend-backend synchronization and optimal user experience.",
+        "Integrated MongoDB Atlas for cloud-based NoSQL storage achieving 95% Lighthouse performance score and scalable data management."
+      ]
+    },
+    {
+      "title": "Gifting website",
+      "stack": ["React.js", "Node.js", "MongoDB", "Passport.js", "Express.js"],
+      "bullets": [
+        "Contributed to the development of an innovative e-commerce platform, inspired by the concept of empowering small artists to sell their unique homemade artworks.",
+        "Implemented a user authentication system that enables users to register as either an artist or a customer, providing them with distinct buying and selling capabilities.",
+        "Leveraged PassportJS for efficient and reliable user authentication, ensuring a smooth and secure user experience."
+      ]
+    }
+  ],
+  "responsibility": [
+    {
+      "role": "Operation-Head",
+      "organization": "Moksha Cultural Fest, NSUT",
+      "bullets": [
+        "Cultivated relationships with 15+ sponsors and vendors by presenting tailored sponsorship packages, securing 40000+ in funding to enhance event infrastructure and artist performances.",
+        "Revamped promotion with targeted campaigns, boosting NSUT fest turnout by 30% and setting record attendance."
+      ]
+    },
+    {
+      "role": "Mentor",
+      "organization": "Prayas: The Neighbourhood Project, NSUT",
+      "dates": "2022 - Present",
+      "bullets": [
+        "Mentored 20+ underprivileged children weekly, delivering 150+ hours of educational at Prayas : The Neighbourhood Project."
+      ]
+    },
+    {
+      "role": "Execomm Member",
+      "organization": "IEEE NSUT Technical Society",
+      "dates": "December 2022 - Present",
+      "bullets": [
+        "Led 24-hour hackathon with 100+ participants; secured ₹50K sponsorship and grew club membership by 15%.",
+        "Led Techfest and Learning Leagues, engaging 200+ students in AI and cloud tech workshops across 5 events."
+      ]
+    }
+  ],
+  "skills": [
+    { "category": "Core", "items": ["Data Structures", "Algorithms", "C++", "C", "Python", "Object-Oriented Programming"] },
+    { "category": "Web Development", "items": ["MongoDB", "Express.js", "React.js", "Node.js", "MERN Stack", "JWT", "Passport.js"] },
+    { "category": "Computer Science", "items": ["Operating Systems", "DBMS", "Computer Organization", "Computer Networks", "MySQL"] },
+    { "category": "Tools", "items": ["Git", "Github"] }
+  ],
+  "education": [
+    {
+      "institution": "Netaji Subhas University of Technology (NSUT)",
+      "degree": "Bachelor of Technology, Information Technology (Network and Information Security)",
+      "dates": "November 2022 - Present",
+      "gpa": "6.5/10.0",
+      "coursework": ["OOPS", "Computer Networks", "Operating Systems", "DBMS", "DSA"]
+    },
+    {
+      "institution": "Mount Carmel School, Delhi",
+      "degree": "CBSE (Class XII)",
+      "dates": "April 2020 - April 2021",
+      "percentage": "91%"
+    },
+    {
+      "institution": "Mount Carmel School, Delhi",
+      "degree": "CBSE (Class X)",
+      "dates": "April 2018 - April 2019",
+      "percentage": "89%"
+    }
+  ],
+  "achievements": [
+    { "title": "LeetCode Pro", "context": "Achieved 400+ Data Structures and Algorithms problems and completed 400+ coding challenges on LeetCode." },
+    { "title": "Quiz Champion", "context": "Secured top 3 placements in 10+ inter-school and 2 state-level quiz competitions." },
+    { "title": "AIR 72", "context": "Achieved All India Rank (AIR) 72 in the International English Olympiad (IEO)." },
+    { "title": "International Mathematics Olympiad", "context": "Honors-Awards" },
+    { "title": "Sports Leadership", "context": "Competed for school cricket team for 6 years and college team for 2 seasons, demonstrating teamwork and leadership." }
+  ],
+  "extra": []
+}
+
